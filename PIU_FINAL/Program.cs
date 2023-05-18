@@ -24,7 +24,7 @@ namespace PIU_FINAL
             //farmacie.AddMedicament(new Medicament("Diazepam", "1 cutie", 35, "Pastile"));
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
+            ;
             Application.Run(new Form1(farmacie));
         }
     }
